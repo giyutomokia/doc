@@ -1,0 +1,6 @@
+transformers
+PyPDF2
+python-docx
+flask
+boto3
+torch
